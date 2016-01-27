@@ -1,0 +1,219 @@
+.top {
+	width: 1000px;
+	height: 250px;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.left {
+	width: 670px;
+	height: 500px;
+	box-sizing: border-box;
+	float: left;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.right {
+	width: 310px;
+	height: 500px;
+	box-sizing: border-box;
+	float: left;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.bottom {
+	clear: both;
+	width: 1000px;
+	height: 250px;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	background-color: grey;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+.left_column {
+	width: 180px;
+	height: 500px;
+	box-sizing: border-box;
+	float: left;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.center {
+	width: 600px;
+	height: 500px;
+	box-sizing: border-box;
+	float: left;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.right_column {
+	width: 180px;
+	height: 500px;
+	box-sizing: border-box;
+	float: left;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.marketing_top {
+	width: 1000px;
+	height: 150px;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.marketing_row_one {
+	width: 490px;
+	height: 490px;
+	box-sizing: border-box;
+	float: left;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.marketing_row_two {
+	width: 320px;
+	height: 214px;
+	box-sizing: border-box;
+	float: left;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.marketing_bottom {
+	clear: both;
+	width: 1000px;
+	height: 150px;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.marketing_nav_logo {
+	float: left;
+	width: 180px;
+	height: 100px;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	background-color: grey;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 100px;
+}
+
+.marketing_nav {
+	float: left;
+	width: 162px;
+	height: 70px;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	background-color: grey;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.marketing_body {
+	clear: both;
+	width: 1000px;
+	height: 400px;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	background-color: grey;
+	margin: 10px;
+}
+
+.magazine_nav {
+	float: left;
+	width: 126px;
+	height: 40px;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	background-color: grey;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.magazine_left {
+	clear: both;
+	float: left;
+	width: 120px;
+	height: 600px;
+	background-color: grey;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	margin: 10px;
+}
+
+.magazine_body {
+	float: left;
+	width: 1000px;
+	height: 600px;
+	margin-bottom: 10px;
+}
+
+.magazine_headline {
+	float: left;
+	width: 860px;
+	height: 120px;
+	background-color: grey;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	margin: 10px;
+}
+
+.magazine_large_box {
+	float: left;
+	width: 690px;
+	height: 250px;
+	background-color: grey;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	margin: 10px;
+}
+
+.magazine_small_box {
+	float: left;
+	width: 150px;
+	height: 250px;
+	background-color: grey;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	margin: 10px;
+}
+
+.magazine_box {
+	float: left;
+	width: 200px;
+	height: 190px;
+	background-color: grey;
+	box-sizing: border-box;
+	border: solid 1px #000;
+	margin: 10px;
+}
+
+.clearfix {
+    overflow: auto;
+}
